@@ -1,0 +1,16 @@
+{
+  "name": "nodekb",
+  "version": "1.0.0",
+  "description": "Simple knowledgebased app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "shreya banik",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.12.3",
+    "pug": "^3.0.2"
+  }
+}
